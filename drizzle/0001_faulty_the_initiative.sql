@@ -1,0 +1,1 @@
+ALTER TABLE `members` ADD `user_id` text;
